@@ -2,10 +2,7 @@
 This is object detection python program
 
 ## This is second
-
-A라는 개발자
-B라는 개발자
-
+asdjdaslkjasdklasdjklasdasdasdasd
 
 AI 성능 측정해주는 프로그램 -2명
 
